@@ -1,6 +1,6 @@
 # React Weather App🌤🌤
 
-A Weather Application using React.
+A weather application using React js.
 
 ## Instructions
 
