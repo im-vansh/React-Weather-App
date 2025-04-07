@@ -1,6 +1,6 @@
 # React Weather App🌤🌤
 
-This is a sample react weather app.
+A Weather Application using React.
 
 ## Instructions
 
